@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 200vh;
+}
+#contenedor{
+    height: 400px;
+}
+
+.caja{
+    border: solid;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: blue ;
+}
+
+#personalizada{
+    background-color: red;
+    position: sticky;
+    top: 10px;
+    left: 30px;
+
+
+   
+}
+.prueba{
+    border: solid;
+    display: inline-block;
+    height: 100px;
+    width: 100%;
+    border-color: red;
+    border-width: 3px;
+    margin: 10px;
+    
+}
